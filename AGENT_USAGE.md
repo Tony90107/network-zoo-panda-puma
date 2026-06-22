@@ -103,7 +103,7 @@ docker compose run --rm \
 
 ## 跟 expression data preprocessing 的關係
 
-老師說「expression data 要經過處理才能拿到基因表現」，意思通常是：
+expression data 要經過處理才能拿到基因表現 ：
 
 ```text
 raw FASTQ
