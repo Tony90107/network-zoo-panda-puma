@@ -1,8 +1,6 @@
 # LangChain / LangGraph PANDA-PUMA Agent 使用說明
 
-這個 script 對應老師說的第三項：
-
-> 寫一個 Python Script，使用者要表達他要做的任務，LLM 決定要用哪個工具或什麼都不執行。
+目標寫一個 Python Script，使用者要表達他要做的任務，LLM 決定要用哪個工具或什麼都不執行。
 
 ## 這個 agent 在做什麼？
 
